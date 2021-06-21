@@ -1,0 +1,57 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@ant-design/charts": "^1.1.3",
+    "@ant-design/icons": "^4.2.2",
+    "@reduxjs/toolkit": "^1.4.0",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.5.0",
+    "@testing-library/user-event": "^7.2.1",
+    "antd": "^4.8.2",
+    "antd-table-saveas-excel": "^1.0.13",
+    "axios": "^0.21.0",
+    "chokidar": "^3.5.1",
+    "http-proxy-middleware": "^1.0.6",
+    "interweave": "^12.5.0",
+    "moment": "^2.27.0",
+    "react": "^17.0.1",
+    "react-barcode-reader": "0.0.2",
+    "react-dom": "^17.0.1",
+    "react-export-excel": "^0.5.3",
+    "react-icons": "^3.11.0",
+    "react-redux": "^7.2.2",
+    "react-reveal": "^1.2.2",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.0",
+    "react-slick": "^0.27.13",
+    "react-sticky": "^6.0.3",
+    "react-use": "^15.3.4",
+    "recharts": "^2.0.9",
+    "slick-carousel": "^1.8.1",
+    "styled-components": "^5.2.1",
+    "use-debounce": "^6.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
